@@ -1,3 +1,4 @@
+//放到index.js中执行
 import React from 'react'
 import ReactDOM from 'react-dom'
 
