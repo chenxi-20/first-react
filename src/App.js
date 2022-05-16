@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Hello from './Hello';
+import HelloClass from './Hello-class';
+import HelloFunc from './hello-func';
+import FormState from './form-state'
 
 function App() {
   return (
@@ -19,7 +21,9 @@ function App() {
           Learn React
         </a>
       </header>
-      <Hello />
+      <HelloClass />
+      <HelloFunc />
+      <FormState />
     </div>
   );
 }
