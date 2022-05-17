@@ -1,0 +1,20 @@
+.app {
+  /* height: 100px; */
+  padding: 10px;
+  background-color: #c4d0dc;
+}
+.big-node {
+  /* height: 80px; */
+  padding: 10px;
+  background-color: yellowgreen;
+}
+.mid-node {
+  /* height: 60px; */
+  padding: 10px;
+  background-color: #dcdc39;
+}
+.small-node {
+  /* height: 40px; */
+  padding: 10px;
+  background-color: skyblue;
+}
