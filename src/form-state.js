@@ -19,6 +19,5 @@ class formComp extends React.Component {
   render() {
     return <input type="text" ref={this.txtRef} onChange={() => console.log(this.txtRef.current.value)}/>
   }
-
 }
 export default formComp;
